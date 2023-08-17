@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amajat Soufiane</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
+<h3 align="center">A passionate full stack web developer from Morocco</h3>
 
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufiane-amt&label=Profile%20views&color=0e75b6&style=flat" alt="soufiane-amt" /> </p>
 - 🔭 I’m currently working on **ft_transcendance**
 
