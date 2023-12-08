@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amajat Soufiane</h1>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllezzq7w003008mhzt74ne9j/stats?cursusId=21&coalitionId=73" alt="samajat's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"></a>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufiane-amt&label=Profile%20views&color=0e75b6&style=flat" alt="soufiane-amt" /> </p>
 - 📫 How to reach me **amajatsoufiane@gmail.com**
