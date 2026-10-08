@@ -140,9 +140,9 @@ I'm interested in building impactful software, solving engineering challenges, a
 **Have a project or opportunity in mind?**
 
 [Portfolio](https://my-portfolio-ar22.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/soufiane-amajat/) · [Email](mailto:amajatsoufiane@gmail.com)
-[![samajat's 42 stats](https://badge.mediaplus.ma/darkblue/samajat)](https://github.com/samajat/badge42)
 
 ---
+[![samajat's 42 stats](https://badge.mediaplus.ma/darkblue/samajat)](https://github.com/samajat/badge42)
 
 <div align="center">
   <sub>Built with curiosity, consistency, and a passion for engineering.</sub>
