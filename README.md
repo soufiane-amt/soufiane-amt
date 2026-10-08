@@ -12,7 +12,6 @@ Building reliable, scalable software — from idea to production.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-215C9C?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-ar22.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-amajat/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amajatsoufiane@gmail.com)
-[![samajat's 42 stats](https://badge.mediaplus.ma/darkblue/samajat)](https://github.com/samajat/badge42)
 </div>
 
 ---
@@ -141,6 +140,7 @@ I'm interested in building impactful software, solving engineering challenges, a
 **Have a project or opportunity in mind?**
 
 [Portfolio](https://my-portfolio-ar22.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/soufiane-amajat/) · [Email](mailto:amajatsoufiane@gmail.com)
+[![samajat's 42 stats](https://badge.mediaplus.ma/darkblue/samajat)](https://github.com/samajat/badge42)
 
 ---
 
